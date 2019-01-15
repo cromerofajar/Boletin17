@@ -7,6 +7,8 @@ package boletin17_1;
 public class Boletin17_1 {
 
     public static void main(String[] args) {
+        
+        //No requiere la implementacion de todos los metodos ya que algunos los hereda de mamiferos.
         Gato obxG=new Gato();
         obxG.nadar();
         obxG.caminar();
